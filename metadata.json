@@ -1,0 +1,6 @@
+{
+  "name": "NutriNest - Smart Community Food & Wellness",
+  "description": "Smart food catering and wellness app for gated communities. Order healthy Indian meals, get AI meal plans, join group orders, and track food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
